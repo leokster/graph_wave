@@ -99,10 +99,16 @@ the propagating graph signal can easily be visualized.
 ### Examples
 
 ![animation][animation]
+
+
+
 A random graph with a delta wavelet on one single node. The color shows
 the heat spreading (note: the color scale changes in time).
 
 ![embedding][embedding]
+
+
+
 The 2d principle component analysis (PCA) of the node embeddings.
 
 <!-- LICENSE -->
